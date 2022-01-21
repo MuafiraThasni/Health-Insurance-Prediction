@@ -9,26 +9,26 @@ People’s healthcare cost forecasting is now a valuable tool for improving heal
 
 ## Exploring the Data
 
-bmi age count image:
+<img src="/bmi_age_count.png?raw=true"/>
 
 
-categorical image:
+<img src="/categorical.png?raw=true"/>
 
 When it comes to machine learning, feature engineering is the process of extracting features from raw data while applying domain expertise in order to improve the performance of ML algorithms. In the medical insurance cost dataset, attributes such as smoker, BMI, and age are the most important factors that determine charges. Also, we see that sex, children, and region do not affect much the charges
 
-heatmap image:
+<img src="/heatmap.png?raw=true"/>
 
 
 ### Multi-variate Analysis
 
 The BMI values of sex or gender types (male and female) are given in the x-axis, and the charges are presented in the y-axis. It can be clearly seen that when the values of BMI are varied, the insurance charges will vary accordingly 
 
-bmi charge
+<img src="/charge_bmi.png?raw=true"/>
 
 
 
 
-smoker charge
+<img src="/smoker_charge.png?raw=true"/>
 
 
 ## Modeling
@@ -44,4 +44,4 @@ The baseline model is improved again. First a decision tree regressor algorithms
 
 Importance of features for the final model : 
 
-image features
+<img src="/features.png?raw=true"/>
