@@ -45,3 +45,5 @@ The baseline model is improved again. First a decision tree regressor algorithms
 Importance of features for the final model : 
 
 <img src="/features.png?raw=true"/>
+
+For Code, [see Notebook](https://github.com/MuafiraThasni/Health-Insurance-Prediction/blob/main/EDA%20%20and%20model%20building%20for%20premium%20insurance%20prediction.ipynb)
