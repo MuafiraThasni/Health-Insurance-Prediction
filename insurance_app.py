@@ -87,7 +87,7 @@ st.write("""Are curious to know the feautures that decides your insurance charge
          Data analysis says that your smoking habit, Body Mass Index,
          and age are the most important factors that determine the insurance charges.If you are a
          smoker, your insurance charge probabily will be very high!""")
-st.image("https://raw.githubusercontent.com/MuafiraThasni/Health-Insurance-Prediction/main/heatmap.png",width = 300)
+st.image("https://raw.githubusercontent.com/MuafiraThasni/Health-Insurance-Prediction/main/heatmap.png",width = 600)
 
 
 #sidebar
